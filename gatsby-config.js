@@ -33,7 +33,13 @@ module.exports = {
           options: {
             aliases:{sh: "bash", js:"javascript"},
             showLineNumbers: true,
-          }
+          },
+        },
+        {
+          resolve: `gatsby-remark-images`,
+          options: {
+            maxWidth: 1500,
+          },
         }],
       },
     },

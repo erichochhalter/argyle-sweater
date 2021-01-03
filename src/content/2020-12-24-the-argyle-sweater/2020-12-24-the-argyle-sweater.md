@@ -1,30 +1,28 @@
 ---
 title: "The Argyle Sweater of SaaS Product Excellence"
-date: "2020-12-24"
-draft: true
+date: "2021-01-04"
+draft: false
 path: "/blog/the-argyle-sweater-of-saas-product-excellence"
 ---
 
 Have you seen season 3 of Silicon Valley? The one where the plucky startup, Pied Piper, gets its first round of venture capital, and the VCs foist upon them a high-end director of sales, Jack Barker.
 
-Jack Barker is played brilliantly by Stephen Tobolowsky (Ned! Ned Ryerson!), and he is instantly identifiable as a BS-MBA kind of personality with nothing in common with the scrappy tech-geek-makers who founded Pied Piper.
+Jack Barker is played brilliantly by Stephen Tobolowsky (Ned! Ned Ryerson!), and he is instantly identifiable as a shareholder-value-first kind of executive with nothing in common with the maker tech-geeks who founded Pied Piper.
 
-As his first act of leadership, standing in the conspicuously largest individual office in the building, he proudly presents the framed diagram of his award-winning business consultant quackery that will be the key to Pied Piper's future: The Conjoined Triangles of Success.
+As his first act of leadership, standing in the conspicuously largest individual office in the building, he proudly presents the framed diagram of his lauded business management gimmick that will be the key to Pied Piper's future: The Conjoined Triangles of Success.
 
 ![conjoined-triangles-of-success](https://y.yarn.co/525c0575-6aa6-4a72-9778-72201e22ebed_text_hi.gif)
 
 I love this joke.
 
 # A Conjoined Triangles of My Very Own
-One day, while I was just minding my design options, the Muse visited me with a vision of some quackery of my own: The Argyle Sweater of Product Excellence. 
+One day, while I was just going about my business crafting interface design variants, the Muse visited me with a vision of a gimmick of my own: **The Argyle Sweater of Product Excellence.** 
 
-Behold, the framework for all our Software as a Service product-problems!:
+Behold, the framework for all our Software as a Service product-problems! 🤪:
 
-![argyle-sweater-of-product-excellence](argyle-sweater-of-product-excellence.png)
+![argyle-sweater-of-saas-product-excellence-base](./argyle-sweater-base.png)
 
-One diagram to rule them all.
-
-I thought mine was worthy of a little chuckle as well.
+I thought mine might be worthy of a little chuckle as well.
 Someday I'll actually commission the sweater and wear it proudly to conferences.
 
 But also, it is not a joke at all!
@@ -34,6 +32,8 @@ To me, it's an elegant visualization of a framework for structuring team alignme
 Often business processes can come across pretty cheesy or wonky or totally disconnected from the work of making (like Jack Barker), so I thought a little self-deprecating humor might help people have a foothold into what I believe are actually some pretty outstanding ideas. This is a map to the place where ambitious visions are built into real.
 
 But also, still a joke. Work should be fun.
+
+---
 
 # Methodology Mashup
 
@@ -50,11 +50,7 @@ Being a designer by training and practice, I am of course very biased towards th
 
 I feel the most fundamental principles of Design Thinking are these:
 
-![1-venn-diagram-of-desirability-feasibility-viability](null.png)
-
-![2-diverge-converge-diamond](null.png)
-
-![3-problem-space-solution-space-double-diamond](null.png)
+![design-thinking--desirability-feasibility-viability--diverge-converge--problem-space-solution-space-double-diamond](./design-thinking.png)
 
 ### 1 - Human-Centered Design: The End-User's Experience is King
 A lot of opinions go into making a thing. But only one **opinion** truly matters to how a thing is designed: is it _**Desirable**_ to the end-user? Not the buyer. Not the strategist. The person who interacts with the thing and puts it to use. 
@@ -78,18 +74,14 @@ In the Problem Design Space, the primary activity is research. You diverge by em
 
 In the Solution Design Space, the primary activity is prototyping. You diverge by building broadly different toy **Solutions** to solve the validated user Problem. You converge by testing those prototypes on users to see how well each approach solves their problem. You slam the best candidates together in later iterations, testing again to prove what solves best. The outcome is a prototype design based on user feedback: Yes, that approach will solve my problem in a way I like.
 
---
-
-Armed with these tools, anybody can think like a designer! May the world be so blessed that we all do. I hope every reader takes that seriously: be the designer your work calls you to be. The Argyle Sweater can help you get started.
+---
 
 ## II - Lean Startup's Build, Measure, Learn
 It's impossible to have worked in a tech startup in the last ten years without at least obliquely hearing about Eric Ries's approach to the Lean methodology. **Lean** is a shorthand to refer to principles of business practice developed at Toyota and popularized worldwide since the mid-1980s. At its core is a value for eliminating waste at every level of a business's operation. As a denizen of Silicon Valley, Eric Ries postulated that if startups had a no-waste way of practicing innovation, more of them would be successful and innovation will happen faster. Lean Startup is the methodology that emerged from his research.
 
 If you are not familiar with Lean Startup, I am still confident you are familiar with its buzzwords. Hyped or not, I find three principles from Lean Startup to be very insightful and powerful in practice.
 
-![pmf-homing-curve](null.png)
-![mvp-value-delivery-curve](null.png)
-![build-measure-learn-triquetra](null.png)
+![lean-startup--pmf-homing-curve--mvp-value-delivery-curve--build-measure-learn-triquetra](./lean-startup.png)
 
 ### 1 - Validated Learning
 The end goal of all Lean Startup activities is to learn, specifically to learn what the market needs and is willing to pay for. What problem is _really_ out there? The faster you learn that, the more efficient the startup is at delivering that innovation to the marketplace and capturing the perceived value of the solution.
@@ -103,7 +95,8 @@ The notion is to build the minimum prototype you need to learn something from th
 
 Among designers and product managers, the phrase Minimum Viable Product is increasingly verboten, on account of its rampant misuse as an output-focused excuse to cut corners. The principle of "the minimum amount of effort to learn" is still extremely prescient. That's the baby we keep as we throw out the MVP bathwater. Let's call it "Solution Exploration" instead, though. 
 
->Experiment to learn, build to earn. —Melissa Perri
+>Experiment to learn, build to earn.
+> —Melissa Perri
 
 ### 3 - Continuous Improvement
 Whether it's Ries's new-fangled application or the classic practices of the Toyota Production System, Lean business practice hinges on one essential principle: [_Kaizen_, or Continuous Improvement](https://www.kaizen.com/what-is-kaizen.html). 
@@ -112,6 +105,7 @@ A Lean organization must continuously evaluate itself and strive to get better. 
 
 In the Eric Ries version of continuous improvement, we have a simpler spiral: Build, Measure, Learn. 
 
+---
 
 ## III - The Golden Circle: Why, What, and How
 
@@ -121,9 +115,7 @@ Of course, nobody can explain the Golden Circle and the power of Start With Why 
 
 The gist: the logical part of our brains gets to respond last after our intuitive brain controls decision making. So if we want messages (such as, "hey team, this is the mission we need to accomplish") to resonate and drive behavior, we should appeal to the intuitive part of the brain. The WHY is what resonates there.
  
-![golden-circle-bullseye](null.png)
-![three-beads-on-a-sting](null.png)
-![beads-on-a-string-over-argyle](null.png)
+![golden-circle--why-how-what-bullseye--the-steel-thread--clarity-of-thought](./golden-circle.png)
 
 ### 1 - Start with WHY
 To obtain team alignment, we must constantly appeal to what I call the **Steel Thread**. It's the always-visible, never-breakable connection between what we are doing and why we are doing it. As we do our work, the Steel Thread helps us trace our way through the labyrinth. No matter the WHAT or HOW, our team should always be able to trace what we are doing clearly back to WHY.
@@ -143,11 +135,11 @@ The worst thing in a maker's work is when someone just hands down (wrong) instru
 ### 3 - Be Great at All Three
 Defining and communicating a great WHY is not enough. The key is to be great at all three. We can do that by connecting the beads of HOW and WHAT to WHY with the steel thread of connection at all times. Perhaps the most valuable contribution a thought worker make is to generate clarity of thought by always referring the detail of WHAT we are doing back through the steel thread to WHY we are doing it. Explain it to yourself. Depict it clearly to others. It manages up; it manages sideways; it surrounds us, it penetrates us, it binds the galaxy together.
 
---
+---
 
 When we slam all these big ideas together (Design Thinking, Lean Startup, and The Golden Circle) we find they are very compatible. We find they combine to form an argyle sweater (of excellence!).
 
-![argyle-sweater-of-product-excellence](argyle-sweater-of-product-excellence.png)
+![argyle-sweater-of-saas-product-excellence-base](./argyle-sweater-full.png)
 
 We have Quadruple Diamonds: **Strategy** Design Space, **Problem** Design Space, **Solution** Design Space, and **Development** Design Space, each diverging and converging to inform the next.
 
@@ -157,8 +149,7 @@ We have the pearls of The Golden Circle, connecting **What** and **How** back to
 
 Taken together, we have a very clear map of the worlds we will explore, and how our teams will work together as we do so.
 
---
---
+---
 
 # The Teams
 Product excellence is a creative collaboration of different specialties pulling in the same direction. Alignment and communication are essential. The Argyle Sweater recommends some structure to harmonize the team.
@@ -190,8 +181,7 @@ Makers are found in all the various front-line roles that create the many compon
 
 Product Development Teams own the **HOW**. They have free rein over many important decisions that turn a mere idea into a reality. Implementation design decisions should not alter the desirability of the user-centric Specification, but ought to make enormous impact on the feasibility and viability of the product.
 
---
---
+---
 
 # The Diamonds
 The four diamonds of the Argyle Sweater are the legs of the relay race on the way to highly-aligned evidence-based product fit with lean implementation. Four phases of Genesis and Synthesis.
@@ -241,7 +231,7 @@ A side note: Without a formal process, there's a gravity that pulls us to begin 
 | **Inputs** | Validated Problem, Business Objectives, User Objectives, Constraints |
 | **Outputs** | Product Specification: A WHAT-oriented Solution design that includes potential phases and escape hatches for agile development <br/> Prototypes, diagrams, and mockups to guide development  |
 
-## 4 - Create the Outcome - Development Design Space
+## 4 - Implement the Outcome - Development Design Space
 Last, Development teams take the highly qualified Solution Specification an its Prototypes and translates it into a real product. Once again, all the cards are laid on the table: Specification, Business Objectives, User Objectives, Constraints. With autonomy and accountability for budget, timing, quality, maintainability, and technical debts, they explore implementation options, determining **HOW** to build the product. Lean and Agile principles come strongly into play as they minimize waste, horse-trade, and escape-hatch a way to realize business Goals by delivering a complete, delightful product. By iterating through planned phases of whole-product value delivery, they optimize the solution over time from cupcake to layer-cake to wedding-cake.
 
 |     | Development Design Space    |
@@ -270,6 +260,7 @@ I leave you with the greatest wisdom known to the great designers who have gone 
 Structure and process make creative collaboration flow smoother, faster, more consistently. It only takes a little bit, applied consistently, to make a huge difference.
 Excellence is a habit.
 
+---
 
 # Additional Resources
 For more techniques for exploring each of the four design spaces, please read these additional articles:
@@ -278,4 +269,3 @@ For more techniques for exploring each of the four design spaces, please read th
 - [Null Hypothesis: Problem Space Exploration]() (coming soon)
 - [The Slime Mold: Solution Space Exploration]() (coming soon)
 - [Eat the Elephant: Development Space Exploration]() (coming soon)
-  

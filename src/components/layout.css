@@ -223,14 +223,14 @@ img {
 h1 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 4rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
-  font-weight: bold;
+  font-weight: 800;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
@@ -238,14 +238,14 @@ h1 {
 h2 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 3rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
-  font-weight: bold;
+  font-weight: 800;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
   line-height: 1.1;
@@ -253,12 +253,12 @@ h2 {
 h3 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 3rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -268,12 +268,12 @@ h3 {
 h4 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -283,12 +283,12 @@ h4 {
 h5 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -298,12 +298,12 @@ h5 {
 h6 {
   margin-left: 0;
   margin-right: 0;
-  margin-top: 0;
+  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -422,14 +422,19 @@ fieldset {
   margin-bottom: 1.45rem;
 }
 blockquote {
-  margin-left: 1.45rem;
+  font-size: 2rem;
+  font-weight: 200;
+  white-space: pre-wrap;
+  line-height: 1;
+  margin-left: 0;
   margin-right: 1.45rem;
   margin-top: 0;
   padding-bottom: 0;
-  padding-left: 0;
+  padding-left: 1.45rem;
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  border-left: 0.25rem solid rgba(0,0,0,.2);
 }
 form {
   margin-left: 0;
@@ -629,5 +634,8 @@ a::selection {
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
+  }
+  iframe {
+    width: 100%;
   }
 }
