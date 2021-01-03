@@ -1,9 +1,10 @@
 module.exports = {
+  pathPrefix: `/blog`,
   siteMetadata: {
-    title: `Julia Doe`,
-    subtitle: `software developer`,
-    description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
-    author: `@niklasmtj`,
+    title: `The Argyle Sweater`,
+    subtitle: `by Eric Hochhalter`,
+    description: `A blog about methodology and process for excellence in SaaS product design and development.`,
+    author: `@eric_hochhalter`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -66,6 +67,6 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // 'gatsby-plugin-offline',
+    'gatsby-plugin-offline',
   ],
 }
