@@ -6,82 +6,72 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
   Strict-Transport-Security: max-age=63072000
-/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js
-  Cache-Control: public, max-age=31536000, immutable
 /styles.13e64bc15a75a1b1c263.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-407fe62976dc5310c43e.js
   Cache-Control: public, max-age=31536000, immutable
-/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js
+/commons-3df47866606ba5eb623e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-blog-post-js-04833bef19a0e4f0c61c.js
+/component---src-templates-blog-post-js-9eb3adbff66b0400d551.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-404-js-bff937e505ed3645f489.js
+/component---src-pages-404-js-e1a3b6269224fee82fcc.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-blog-js-6da5e47a9755294d3644.js
+/component---src-pages-blog-js-da6d63eaa458f52a0574.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-3b72e03133cfb968a90a.js
+/component---src-pages-index-js-dc08c9e86e69b04c5231.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-c6dec705cecf53f9a542.js
+/webpack-runtime-44027cbf72f0637e1887.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-741ade27086b2708e961.js
+/framework-8e528b732ab2eaadb7b7.js
   Cache-Control: public, max-age=31536000, immutable
-/app-7f7a7b134d5a6579e032.js
+/app-0bc4d17e5d80922b36ea.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/argyle-sweater/offline-plugin-app-shell-fallback/
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
-  Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js>; rel=preload; as=script
-  Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </argyle-sweater/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /argyle-sweater/blog/the-argyle-sweater-of-saas-product-excellence
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
+  Link: </argyle-sweater/webpack-runtime-44027cbf72f0637e1887.js>; rel=preload; as=script
   Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---src-templates-blog-post-js-04833bef19a0e4f0c61c.js>; rel=preload; as=script
+  Link: </argyle-sweater/framework-8e528b732ab2eaadb7b7.js>; rel=preload; as=script
+  Link: </argyle-sweater/app-0bc4d17e5d80922b36ea.js>; rel=preload; as=script
+  Link: </argyle-sweater/commons-3df47866606ba5eb623e.js>; rel=preload; as=script
+  Link: </argyle-sweater/component---src-templates-blog-post-js-9eb3adbff66b0400d551.js>; rel=preload; as=script
   Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </argyle-sweater/page-data/blog/the-argyle-sweater-of-saas-product-excellence/page-data.json>; rel=preload; as=fetch; crossorigin
 /argyle-sweater/404/
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
+  Link: </argyle-sweater/webpack-runtime-44027cbf72f0637e1887.js>; rel=preload; as=script
   Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---src-pages-404-js-bff937e505ed3645f489.js>; rel=preload; as=script
+  Link: </argyle-sweater/framework-8e528b732ab2eaadb7b7.js>; rel=preload; as=script
+  Link: </argyle-sweater/app-0bc4d17e5d80922b36ea.js>; rel=preload; as=script
+  Link: </argyle-sweater/commons-3df47866606ba5eb623e.js>; rel=preload; as=script
+  Link: </argyle-sweater/component---src-pages-404-js-e1a3b6269224fee82fcc.js>; rel=preload; as=script
   Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </argyle-sweater/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /argyle-sweater/blog/
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
+  Link: </argyle-sweater/webpack-runtime-44027cbf72f0637e1887.js>; rel=preload; as=script
   Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---src-pages-blog-js-6da5e47a9755294d3644.js>; rel=preload; as=script
+  Link: </argyle-sweater/framework-8e528b732ab2eaadb7b7.js>; rel=preload; as=script
+  Link: </argyle-sweater/app-0bc4d17e5d80922b36ea.js>; rel=preload; as=script
+  Link: </argyle-sweater/commons-3df47866606ba5eb623e.js>; rel=preload; as=script
+  Link: </argyle-sweater/component---src-pages-blog-js-da6d63eaa458f52a0574.js>; rel=preload; as=script
   Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </argyle-sweater/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
 /argyle-sweater/
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
+  Link: </argyle-sweater/webpack-runtime-44027cbf72f0637e1887.js>; rel=preload; as=script
   Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---src-pages-index-js-3b72e03133cfb968a90a.js>; rel=preload; as=script
+  Link: </argyle-sweater/framework-8e528b732ab2eaadb7b7.js>; rel=preload; as=script
+  Link: </argyle-sweater/app-0bc4d17e5d80922b36ea.js>; rel=preload; as=script
+  Link: </argyle-sweater/commons-3df47866606ba5eb623e.js>; rel=preload; as=script
+  Link: </argyle-sweater/component---src-pages-index-js-dc08c9e86e69b04c5231.js>; rel=preload; as=script
   Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </argyle-sweater/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /argyle-sweater/404.html
-  Link: </argyle-sweater/webpack-runtime-c6dec705cecf53f9a542.js>; rel=preload; as=script
+  Link: </argyle-sweater/webpack-runtime-44027cbf72f0637e1887.js>; rel=preload; as=script
   Link: </argyle-sweater/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </argyle-sweater/framework-741ade27086b2708e961.js>; rel=preload; as=script
-  Link: </argyle-sweater/app-7f7a7b134d5a6579e032.js>; rel=preload; as=script
-  Link: </argyle-sweater/92c71b40fabf116e9c1437d16baee1f61fa514e3-3df47866606ba5eb623e.js>; rel=preload; as=script
-  Link: </argyle-sweater/component---src-pages-404-js-bff937e505ed3645f489.js>; rel=preload; as=script
+  Link: </argyle-sweater/framework-8e528b732ab2eaadb7b7.js>; rel=preload; as=script
+  Link: </argyle-sweater/app-0bc4d17e5d80922b36ea.js>; rel=preload; as=script
+  Link: </argyle-sweater/commons-3df47866606ba5eb623e.js>; rel=preload; as=script
+  Link: </argyle-sweater/component---src-pages-404-js-e1a3b6269224fee82fcc.js>; rel=preload; as=script
   Link: </argyle-sweater/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </argyle-sweater/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
