@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/blog`,
+  pathPrefix: `/argyle-sweater`,
   siteMetadata: {
     title: `The Argyle Sweater`,
     subtitle: `by Eric Hochhalter`,
