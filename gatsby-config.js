@@ -5,6 +5,7 @@ module.exports = {
     subtitle: `by Eric Hochhalter`,
     description: `A blog about methodology and process for excellence in SaaS product design and development.`,
     author: `@eric_hochhalter`,
+    siteUrl: `https://erichochhalter.github.io/argyle-sweater`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
