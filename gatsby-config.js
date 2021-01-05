@@ -7,7 +7,6 @@ module.exports = {
     author: `@eric_hochhalter`,
   },
   plugins: [
-    `gatsby-plugin-csp`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
